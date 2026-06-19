@@ -36,6 +36,7 @@ Subject-level statistical validation
 Graph-based null model analysis
 Transmodal vs. unimodal cortical comparisons
 Publication-ready figure generation
+
 Key Finding
 
 The relationship between structural connectivity strength and intrinsic functional timescales is predominantly carried by structure-coupled (graph-smooth) BOLD activity. In contrast, structure-decoupled dynamics exhibit substantially weaker dependence on anatomical connectivity while retaining hierarchical organization across cortical systems.
@@ -44,6 +45,7 @@ Requirements
 MATLAB R2022a or later
 Statistics and Machine Learning Toolbox
 Signal Processing Toolbox
+
 Citation
 
 If you use this code in your research, please cite:
